@@ -44,6 +44,7 @@ a:hover{
     background-color: white;
     border-radius: 10%;
     cursor: pointer;
+    width: auto;
 }
 .navbar-toggler-icon{
 font-size: 2.5rem;
@@ -271,7 +272,7 @@ textarea{
         margin-bottom: 1rem; 
         /* width: 90vw;  */
         background: white; 
-        width: max-content;
+        /* width: max-content; */
         margin-top: -1rem;
     }
     .navbar-nav a{
