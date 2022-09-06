@@ -335,7 +335,9 @@ textarea{
 
 
 }
-
+@media (min-width :500px){
+    
+}
 /* @media (max-width :812px){
     .nav-item{
         font-size: 1rem;
