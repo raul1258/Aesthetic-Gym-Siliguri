@@ -326,45 +326,9 @@ textarea{
         margin-bottom: 1rem;  
         width: max-content;
     }
-    /* .carousel-item{
-        height: 40rem;
-        width: 40rem;
-    } */
-
-
-
-
-}
-@media (min-width :500px){
     
+
+
+
+
 }
-/* @media (max-width :812px){
-    .nav-item{
-        font-size: 1rem;
-        margin-bottom: 1rem;
-    }
-    .navbar-brand{
-        font-size: 1rem;
-        margin-top: 1rem 1rem;
-    }
-    .footer{
-        font-size: 1rem;
-    }
-    .footer .box-container{
-        display: flex;
-        color: white;
-    }
-    .footer .box{
-        padding: 1.5rem;
-    }
-    .pricing .box-container{
-        display: flex;   
-    }
-    .pricing .box{
-        padding:.7rem;
-        text-align: center;
-        border: .1rem solid rgba(255,255,255,.2);
-        border-radius: .5rem;
-        
-    }
-} */
